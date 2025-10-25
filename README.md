@@ -1,4 +1,4 @@
-🪙 Fund Me DApp
+Fund Me DApp
 
 A simple decentralized crowdfunding application built using HTML, JavaScript, and Ethers.js that connects to MetaMask and allows users to:
 
