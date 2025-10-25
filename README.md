@@ -28,10 +28,3 @@ Frontend	HTML, CSS, JavaScript
 Blockchain	Solidity, Hardhat
 Web3 Library	Ethers.js (v6)
 Wallet	MetaMask
- Project Structure
-FundMeApp/
-│
-├── index.html          # Frontend UI
-├── index.js            # Ethers.js logic for connecting and interacting
-├── constants.js        # ABI and contract address
-└── README.md           # Documentation
